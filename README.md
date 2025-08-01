@@ -1,7 +1,6 @@
 # Mitigação de viés de confirmação em LLMs
 ## Pesquisa desenvolvida durante estágio de verão no INESCTEC. 
->> Orientador: Rafael Ris-Ala
->> Estagiários de pesquisa: Yan Coelho, Telma Giovana de Freitas
+>> Orientador: Rafael Ris-Ala                                                                                                              Estagiários de pesquisa: Yan Coelho, Telma Giovana de Freitas
 
 A pesquisa consistiu em realizar 52 perguntas enviesadas na área da saúde (validadas por equipe técnica da área), e aplicar 9 medidas de mitigação para viéses de confirmação em LLMs, 
 analisando o comportamento diante da pergunta enviesada x medida de mitigação.
