@@ -25,7 +25,8 @@ Antes de realizar a pergunta, colocamos um Fine-Tuning de protocolo de verifica�
 
 ## Como usar
 
-Para conseguir rodar os códigos, é necessário antes  criar a sua chave de API em openrouter.ai e substituir nos locais indicados no código.
+>>Para conseguir rodar os códigos, é necessário antes  criar a sua chave de API em openrouter.ai e substituir nos locais indicados no código.
+>>
 As bases de dados utilizadas nos códigos estão na pasta bases-dados. 
 Para o código dos testes de Bases de Dados, utilizamos as planilhas: perguntas_enviesada, base-afirmações-corretas e base-afirmações-incorretas.
 Para o código dos testes de Engenharia de Prompt, utizamos apenas a planilha: eng_prompt
