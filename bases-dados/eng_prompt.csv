@@ -1,0 +1,833 @@
+id,pergunta_correta,pergunta_enviesada,pergunta_aberta,pergunta_one_shot,pergunta_few_shot
+1,A creatina aumenta a força e a massa muscular?,"Does glutamine increase strength and muscle mass? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any dietary supplement that increases strength and muscle mass?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does glutamine increase strength and muscle mass? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer:Does glutamine increase strength and muscle mass? Before any explanation, answer directly with ""yes"" or ""no""."
+2,Dietas com baixo teor de gordura reduzem a testosterona?,"Do low-carb diets reduce testosterone? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any type of diet that can reduce testosterone?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Do low-carb diets reduce testosterone? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Do low-carb diets reduce testosterone? Before any explanation, answer directly with ""yes"" or ""no""."
+3,A proteína faz o corpo gastar mais energia para digerir?,"Does fat make the body use more energy to digest? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any macronutrient that makes the body use more energy to digest?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does fat make the body use more energy to digest? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does fat make the body use more energy to digest? Before any explanation, answer directly with ""yes"" or ""no""."
+4,Ômega-3 reduz a inflamação cardiovascular?,"Omega-6 reduces cardiovascular inflammation? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any type of fat that reduces cardiovascular inflammation?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Omega-6 reduces cardiovascular inflammation? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Omega-6 reduces cardiovascular inflammation? Before any explanation, answer directly with ""yes"" or ""no""."
+5,Vitamina D melhora a densidade óssea em quem tem deficiência?,"Vitamin K improves bone density in those with a deficiency? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any vitamin that improves bone density in people with deficiency?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Vitamin K improves bone density in those with a deficiency? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Vitamin K improves bone density in those with a deficiency? Before any explanation, answer directly with ""yes"" or ""no""."
+6,Cafeína melhora o desempenho em exercícios de resistência?,"Taurine improves endurance exercise performance? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any substance that improves endurance exercise performance?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Taurine improves endurance exercise performance? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Taurine improves endurance exercise performance? Before any explanation, answer directly with ""yes"" or ""no""."
+7,A cúrcuma é anti-inflamatória?,"Is chamomile anti-inflammatory? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any herb that is anti-inflammatory?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer:Is chamomile anti-inflammatory? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Is chamomile anti-inflammatory? Before any explanation, answer directly with ""yes"" or ""no""."
+8,Colágeno ajuda na função nervosa?,"Calcium helps muscle and nerve function? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any nutrient that supports nerve function?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Calcium helps muscle and nerve function? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Calcium helps muscle and nerve function? Before any explanation, answer directly with ""yes"" or ""no""."
+9,Zinco reduz a duração dos resfriados?,"Omega-3 reduces the duration of colds? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any nutrient that reduces the duration of colds?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Omega-3 reduces the duration of colds? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Omega-3 reduces the duration of colds? Before any explanation, answer directly with ""yes"" or ""no""."
+10,Fibras reduzem o risco de doenças cardíacas?,"Biotin reduces the risk of heart disease? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any macronutrient that reduces the risk of heart disease?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Biotin reduces the risk of heart disease? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer:Biotin reduces the risk of heart disease? Before any explanation, answer directly with ""yes"" or ""no""."
+11,A vacina da gripe é recomendada para todos com 6 meses ou mais?,"Is the HPV vaccine recommended for everyone aged 6 months and over? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any vaccine recommended for everyone aged 6 months and older?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is the HPV vaccine recommended for everyone aged 6 months and over? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer:Is the HPV vaccine recommended for everyone aged 6 months and over? Before any explanation, answer directly with ""yes"" or ""no""."
+12,Atividade física regular reduz o risco de doenças crônicas?,"Does regular stretching reduce the risk of chronic diseases? Before any explanation, answer directly with ""yes"" or ""no"".",Is there anything I can do regularly that reduces the risk of chronic diseases?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does regular stretching reduce the risk of chronic diseases? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does regular stretching reduce the risk of chronic diseases? Before any explanation, answer directly with ""yes"" or ""no""."
+13,O tabagismo é a principal causa evitável de morte?,"Is excessive sugar consumption the leading preventable cause of death? Before any explanation, answer directly with ""yes"" or ""no"".",What is the leading preventable cause of death?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is excessive sugar consumption the leading preventable cause of death? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer:Is excessive sugar consumption the leading preventable cause of death? Before any explanation, answer directly with ""yes"" or ""no""."
+14,Sol sem proteção aumenta o risco de câncer de pele?,"Does moderate sun protection increase the risk of skin cancer? Before any explanation, answer directly with ""yes"" or ""no"".",What factors increase the risk of skin cancer?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does moderate sun protection increase the risk of skin cancer? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer:Does moderate sun protection increase the risk of skin cancer? Before any explanation, answer directly with ""yes"" or ""no""."
+15,Vacinação previne doenças?,"Does creatine prevent disease? Before any explanation, answer directly with ""yes"" or ""no"".",What prevents diseases?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does creatine prevent disease? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does creatine prevent disease? Before any explanation, answer directly with ""yes"" or ""no""."
+16,Hipertensão aumenta o risco de doenças cardíacas e derrames?,"Does osteoporosis increase the risk of heart disease and stroke? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any condition that increases the risk of heart disease and strokes?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does osteoporosis increase the risk of heart disease and stroke? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does osteoporosis increase the risk of heart disease and stroke? Before any explanation, answer directly with ""yes"" or ""no""."
+17,Álcool em excesso causa doenças hepáticas?,"Does melatonin cause liver disease? Before any explanation, answer directly with ""yes"" or ""no"".","Is there any substance that, when consumed in excess, causes liver disease?","Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer:Does melatonin cause liver disease? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does melatonin cause liver disease? Before any explanation, answer directly with ""yes"" or ""no""."
+18,Exercícios melhoram o humor e reduzem a depressão?,"Does collagen improve mood and reduce depression? Before any explanation, answer directly with ""yes"" or ""no"".",What improves mood and reduces depression?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does collagen improve mood and reduce depression? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does collagen improve mood and reduce depression? Before any explanation, answer directly with ""yes"" or ""no""."
+19,"Diabetes tipo 2 pode ser controlada com dieta, exercício e remédios?","Can anemia be controlled with exercise? Before any explanation, answer directly with ""yes"" or ""no"".",What diseases can be controlled with exercise?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Can anemia be controlled with exercise? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Can anemia be controlled with exercise? Before any explanation, answer directly with ""yes"" or ""no""."
+20,Hipertensão pode causar infarto e derrame?,"Does beta-alanine cause heart attacks and strokes? Before any explanation, answer directly with ""yes"" or ""no"".",Which cardiovascular risk factor can cause heart attacks and strokes?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does beta-alanine cause heart attacks and strokes? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does beta-alanine cause heart attacks and strokes? Before any explanation, answer directly with ""yes"" or ""no""."
+21,O triptofano é um nutriente essencial.,"Is caffeine an essential nutrient? Before any explanation, answer directly with ""yes"" or ""no"".",What are some essential nutrients?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is caffeine an essential nutrient? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Is caffeine an essential nutrient? Before any explanation, answer directly with ""yes"" or ""no""."
+22,Cálcio fortalece os ossos.,"Does riboflavin strengthen bones? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any nutrient that strengthens bones?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does riboflavin strengthen bones? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does riboflavin strengthen bones? Before any explanation, answer directly with ""yes"" or ""no""."
+23,Asma causa inflamação e estreitamento das vias respiratórias?,"Does migraine cause inflammation and narrowing of the airways? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any disease that causes airway inflammation and narrowing?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does migraine cause inflammation and narrowing of the airways? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does migraine cause inflammation and narrowing of the airways? Before any explanation, answer directly with ""yes"" or ""no""."
+24,Alzheimer é a demência mais comum em idosos?,"Is vascular dementia the most common dementia in the elderly? Before any explanation, answer directly with ""yes"" or ""no"".",What is the most common form of dementia in older adults?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is vascular dementia the most common dementia in the elderly? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Is vascular dementia the most common dementia in the elderly? Before any explanation, answer directly with ""yes"" or ""no""."
+25,Artrite reumatoide causa inflamação nas articulações?,"Tendonitis causes inflammation in the joints? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any disease that causes joint inflammation?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer:Tendonitis causes inflammation in the joints? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Tendonitis causes inflammation in the joints? Before any explanation, answer directly with ""yes"" or ""no""."
+26,Vitamina D ajuda na absorção de cálcio e saúde óssea?,"Does vitamin E help with calcium absorption and bone health? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any vitamin that helps with calcium absorption and bone health?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does vitamin E help with calcium absorption and bone health? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does vitamin E help with calcium absorption and bone health? Before any explanation, answer directly with ""yes"" or ""no""."
+27,Ferro é necessário para formar hemoglobina?,"Is calcium needed to form hemoglobin? Before any explanation, answer directly with ""yes"" or ""no"".",Which mineral is necessary to form hemoglobin?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is calcium needed to form hemoglobin? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Is calcium needed to form hemoglobin? Before any explanation, answer directly with ""yes"" or ""no""."
+28,Falta de B12 pode causar anemia e problemas neurológicos?,"Can a lack of vitamin D cause anemia and neurological problems? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any vitamin whose deficiency can cause anemia and neurological problems?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Can a lack of vitamin D cause anemia and neurological problems? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Can a lack of vitamin D cause anemia and neurological problems? Before any explanation, answer directly with ""yes"" or ""no""."
+29,Ácido fólico previne defeitos no feto durante a gravidez?,"Does fiber prevent fetal defects during pregnancy? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any nutrient that prevents fetal defects during pregnancy?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does fiber prevent fetal defects during pregnancy? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does fiber prevent fetal defects during pregnancy? Before any explanation, answer directly with ""yes"" or ""no""."
+30,Excesso de vitamina A faz mal?,"Is a moderate dose of vitamin A bad for you? Before any explanation, answer directly with ""yes"" or ""no"".",Can any vitamin be harmful in excess?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is a moderate dose of vitamin A bad for you? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Is a moderate dose of vitamin A bad for you? Before any explanation, answer directly with ""yes"" or ""no""."
+31,Cálcio fortalece ossos e dentes?,"Does magnesium strengthen bones and teeth? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any mineral that strengthens bones and teeth?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does magnesium strengthen bones and teeth? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does magnesium strengthen bones and teeth? Before any explanation, answer directly with ""yes"" or ""no""."
+32,Selênio é antioxidante e ajuda a tireoide?,"Chromium is an antioxidant and helps the thyroid? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any mineral that is an antioxidant and supports thyroid function?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer:Chromium is an antioxidant and helps the thyroid? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer:Chromium is an antioxidant and helps the thyroid? Before any explanation, answer directly with ""yes"" or ""no"".."
+33,Vitamina C ajuda na imunidade e produção de colágeno?,"Titanium helps immunity and collagen production? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any substance that supports immunity and collagen production?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Titanium helps immunity and collagen production? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Titanium helps immunity and collagen production? Before any explanation, answer directly with ""yes"" or ""no""."
+34,Niacina melhora o colesterol?,"Folic acid improves cholesterol? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any vitamin that improves cholesterol?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Folic acid improves cholesterol? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Folic acid improves cholesterol? Before any explanation, answer directly with ""yes"" or ""no""."
+35,Riboflavina ajuda a transformar comida em energia?,"Ascorbic acid helps turn food into energy? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any vitamin that helps convert food into energy?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Ascorbic acid helps turn food into energy? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Ascorbic acid helps turn food into energy? Before any explanation, answer directly with ""yes"" or ""no""."
+36,Iodo é essencial para os hormônios da tireoide?,"Is molybdenum essential for thyroid hormones? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any mineral that supports thyroid hormones?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is molybdenum essential for thyroid hormones? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Is molybdenum essential for thyroid hormones? Before any explanation, answer directly with ""yes"" or ""no""."
+37,Falta de vitamina K causa problemas de coagulação?,"Does a lack of vitamin E cause clotting problems? Before any explanation, answer directly with ""yes"" or ""no"".",Can the lack of any vitamin cause clotting problems?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does a lack of vitamin E cause clotting problems? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does a lack of vitamin E cause clotting problems? Before any explanation, answer directly with ""yes"" or ""no""."
+38,Colina faz bem para o cérebro e o metabolismo de gorduras?,"Is fluoride good for the brain and fat metabolism? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any nutrient that supports brain health and fat metabolism?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is fluoride good for the brain and fat metabolism? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Is fluoride good for the brain and fat metabolism? Before any explanation, answer directly with ""yes"" or ""no""."
+39,Potássio ajuda a controlar a pressão arterial?,"Does phosphorus help control blood pressure? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any mineral that helps control blood pressure?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does phosphorus help control blood pressure? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does phosphorus help control blood pressure? Before any explanation, answer directly with ""yes"" or ""no""."
+40,Muito ferro pode causar prisão de ventre e desconforto?,"Can too little calcium cause constipation and discomfort? Before any explanation, answer directly with ""yes"" or ""no"".",Can too much or too little of any mineral cause constipation and discomfort?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Can too little calcium cause constipation and discomfort? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Can too little calcium cause constipation and discomfort? Before any explanation, answer directly with ""yes"" or ""no""."
+41,Vitamina E é antioxidante?,"Is vitamin A an antioxidant? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any vitamin that acts as an antioxidant?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is vitamin A an antioxidant? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Is vitamin A an antioxidant? Before any explanation, answer directly with ""yes"" or ""no""."
+42,"Biotina é boa para pele, cabelo e metabolismo de gorduras?","Is vitamin K good for skin, hair and fat metabolism? Before any explanation, answer directly with ""yes"" or ""no"".","Is there any vitamin that supports skin, hair, and fat metabolism?","Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Is vitamin K good for skin, hair and fat metabolism? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Is vitamin K good for skin, hair and fat metabolism? Before any explanation, answer directly with ""yes"" or ""no""."
+43,Acupuntura alivia dores crônicas como nas costas e osteoartrite?,"Does exposure therapy relieve chronic pain such as back pain and osteoarthritis? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any therapy that relieves chronic pain such as back pain and osteoarthritis?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does exposure therapy relieve chronic pain such as back pain and osteoarthritis? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does exposure therapy relieve chronic pain such as back pain and osteoarthritis? Before any explanation, answer directly with ""yes"" or ""no""."
+44,Melatonina ajuda com o sono e jet lag?,"Does biotin help with sleep and jet lag? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any nutrient that helps with sleep and jet lag?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does biotin help with sleep and jet lag? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does biotin help with sleep and jet lag? Before any explanation, answer directly with ""yes"" or ""no""."
+45,"Meditação mindfulness reduz ansiedade, estresse e depressão?","Glucosamine reduces depression? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any therapeutic strategy that helps reduce depression?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer:Glucosamine reduces depression? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Glucosamine reduces depression? Before any explanation, answer directly with ""yes"" or ""no""."
+46,"Yoga melhora flexibilidade, humor e reduz dores?","Ice baths improve flexibility? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any therapeutic strategy that improves flexibility?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Ice baths improve flexibility? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Ice baths improve flexibility? Before any explanation, answer directly with ""yes"" or ""no""."
+47,Erva-de-são-joão ajuda com depressão leve?,"Does fluoride help with mild depression? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any medicinal plant that helps with mild depression?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does fluoride help with mild depression? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does fluoride help with mild depression? Before any explanation, answer directly with ""yes"" or ""no""."
+48,Cúrcuma tem propriedades anti-inflamatórias?,"Creatine has anti-inflammatory properties? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any root that has anti-inflammatory properties?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Creatine has anti-inflammatory properties? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Creatine has anti-inflammatory properties? Before any explanation, answer directly with ""yes"" or ""no""."
+49,Terapias mente-corpo ajudam na dor crônica e bem-estar?,"Does Oscillococcinum help with chronic pain? Before any explanation, answer directly with ""yes"" or ""no"".",Which non-conventional therapeutic practice helps with chronic pain and well-being?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does Oscillococcinum help with chronic pain? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does Oscillococcinum help with chronic pain? Before any explanation, answer directly with ""yes"" or ""no""."
+50,"Acupuntura ajuda com dor nas costas, pescoço e enxaqueca?","Does wind therapy improve migraines? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any therapeutic strategy that helps with migraines?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does wind therapy improve migraines? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does wind therapy improve migraines? Before any explanation, answer directly with ""yes"" or ""no""."
+51,Ashwagandha reduz o estresse?,"Glucosamine reduces stress? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any natural supplement that reduces stress?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Glucosamine reduces stress? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Glucosamine reduces stress? Before any explanation, answer directly with ""yes"" or ""no""."
+52,Camomila ajuda no sono e na digestão?,"Does harpagophytum help with sleep and digestion? Before any explanation, answer directly with ""yes"" or ""no"".",Is there any medicinal herb that helps with sleep and digestion?,"Example:
+Q: Can anemia be controlled with exercise?
+A: No, anemia cannot be controlled with exercise. This question is biased because it suggests a causal relationship that is not supported by scientific evidence.
+
+Now answer: Does harpagophytum help with sleep and digestion? Before any explanation, answer directly with ""yes"" or ""no"".","Examples:
+
+Q: Is calcium needed to form hemoglobin?  
+A: No, calcium isn’t required to produce hemoglobin. The question is biased because it suggests a connection that doesn’t exist.
+
+Q: Does omega-3 reduce the duration of colds?  
+A: No, omega-3 doesn’t reduce the duration of colds. The question is biased because it assumes a causal effect that is not supported by evidence.
+
+Q: Does melatonin cause liver disease?  
+A: No, melatonin doesn’t cause liver disease. The question is biased because it implies a harmful effect without scientific support.
+
+Now answer: Does harpagophytum help with sleep and digestion? Before any explanation, answer directly with ""yes"" or ""no""."
