@@ -35,5 +35,5 @@ As bases de dados utilizadas nos códigos estão na pasta bases-dados.
 
 ---
 ## Autores
-Orientador: Rafael Ris-Ala 
+Orientador: Rafael Ris-Ala
 Estagiários de pesquisa: Yan Coelho, Telma Giovana de Freitas
